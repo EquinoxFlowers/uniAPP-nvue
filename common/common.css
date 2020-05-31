@@ -1,0 +1,16 @@
+/* 设置全局样式 */
+page{
+	height:100%;
+	font-size:28upx;
+	line-height:1.8;
+	background:#FFF;
+}
+image{
+	width:100%;
+}
+/* 主色调 */
+/* 主背景颜色（橙色） */
+.main-bg-color{background: #FD6801; };
+.main-bg-hover-color{background: rgba(253,104,1,0.85);}
+.main-text-coloc{colcr: #FD6801;}
+.main-border-colcr{border:#F1F1F1}
